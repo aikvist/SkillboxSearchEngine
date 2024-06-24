@@ -8,7 +8,7 @@ This project was created using the following technologies:
 
 How to create and run this application
 Download the project in ZIP format, and then unzip it or clone this repository to your computer using the command:
-git clone https://github.com/aikvist/SearchEngine .git
+git clone https://github.com/aikvist/SkillboxSearchEngine.git
 and then navigate to the project folder. The "json_file" and "resource file" folders must be moved to the project's build location.
 
 Before launching the application, you must specify in this system the paths to the text files that you wanted to get, to search for the "files" key of the "config.json" file, and your requests to the "requests.json" file.
